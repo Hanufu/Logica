@@ -59,5 +59,31 @@ namespace Logica
             return pares;
         }
 
+        public static List<List<int>> Exercicio_03(int[] array)
+        {
+            List<List<int>> result = new List<List<int>>();
+
+            //Começa com um sobconjunto vazio
+            result.Add(new List<int>()); 
+
+            foreach(int item in array)
+            {
+                int count = result.Count;
+                for(int i = 0; i< count; i++)
+                {
+                    List<int> subset = new List<int>(result[i]);
+                    subset.Add(item);
+                    result.Add(subset);
+                }
+            }
+
+            //Mostra resultado
+            List<List<int>> subsets = result;
+            foreach (List<int> subset in subsets)
+            {
+                Console.WriteLine("[{0}]", string.Join(", ", subset));
+            }
+            return result;
+        }
     }
 }
