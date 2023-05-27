@@ -1,0 +1,15 @@
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\bin\Debug\net7.0\TesteDeLogica.exe
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\bin\Debug\net7.0\TesteDeLogica.deps.json
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\bin\Debug\net7.0\TesteDeLogica.runtimeconfig.json
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\bin\Debug\net7.0\TesteDeLogica.dll
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\bin\Debug\net7.0\TesteDeLogica.pdb
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.csproj.AssemblyReference.cache
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.AssemblyInfoInputs.cache
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.AssemblyInfo.cs
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.dll
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\refint\TesteDeLogica.dll
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.pdb
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\TesteDeLogica.genruntimeconfig.cache
+C:\Users\eduar\All\dev\Logica\TesteDeLogica\TesteDeLogica\obj\Debug\net7.0\ref\TesteDeLogica.dll
